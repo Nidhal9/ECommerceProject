@@ -32,4 +32,4 @@ Application Java de gestion d’une plateforme e-commerce utilisant la Programma
 3. Exécuter le programme
 
 ## Auteur
-Étudiant en Génie Logiciel
+Inoubli Nidhal LGL2
