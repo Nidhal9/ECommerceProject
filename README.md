@@ -1,34 +1,35 @@
 # Projet Java E-Commerce
 
-Projet réalisé en Java dans le cadre du module :
-POO et Collections Java.
+## Description
+Application Java de gestion d’une plateforme e-commerce utilisant la Programmation Orientée Objet et les Collections Java.
 
 ## Fonctionnalités
 
-- Gestion des produits
+- Gestion des produits (électroniques et alimentaires)
 - Gestion des clients
-- Gestion des commandes
-- Interface de paiement
-- Collections Java :
-    - List
-    - Set
-    - Map
-    - Queue
+- Gestion des commandes (normales et express)
+- Calcul des prix des produits et commandes
+- Paiement des commandes
+- Utilisation des collections :
+  - List (catalogue de produits)
+  - Set (éviter doublons)
+  - Map (recherche rapide)
+  - Queue (file d’attente des commandes)
+- Tri des produits
+- Statistiques (produit le plus cher, nombre de produits)
 
-## Concepts utilisés
+## Technologies
 
-- Encapsulation
-- Héritage
-- Abstraction
-- Polymorphisme
-- Interfaces
+- Java
+- POO (héritage, polymorphisme, abstraction, interfaces)
+- Collections Java
+- Git & GitHub
 
 ## Exécution
 
-Compiler :
+1. Ouvrir le projet dans IntelliJ IDEA
+2. Lancer la classe Main.java
+3. Exécuter le programme
 
-javac src/model/*.java src/service/*.java src/Main.java
-
-Exécuter :
-
-java src/Main
+## Auteur
+Étudiant en Génie Logiciel
